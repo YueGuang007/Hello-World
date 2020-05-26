@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+只是另一个存储库
+大家好，我是GGB，来自火星，最喜欢地球，喜欢在这里玩，
+吃好吃的美食，让我们一起愉快地玩耍吧！
